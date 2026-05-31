@@ -2836,6 +2836,11 @@ input, select, textarea {
 			background: #fff;
 		}
 
+			.main.style1 .image + p {
+				text-align: center;
+				margin-top: -2em;
+			}
+
 		.main.style2 {
 			background-color: #333;
 			color: rgba(255, 255, 255, 0.75);
@@ -2851,6 +2856,11 @@ input, select, textarea {
 				.main.style2 a:hover {
 					color: #ffffff;
 				}
+			
+			.main.style2 .image + p {
+				text-align: center;
+				margin-top: -2em;
+			}
 
 			.main.style2 h1, .main.style2 h2, .main.style2 h3, .main.style2 h4, .main.style2 h5, .main.style2 h6, .main.style2 strong, .main.style2 b {
 				color: #ffffff;
